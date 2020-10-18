@@ -1,14 +1,20 @@
-# Default starter for Gridsome
+# gridsome-graphcms
+GraphCMS with Gridsome 
 
-This is the project you get when you run `gridsome create new-project`.
+# How to install
+
 
 ### 1. Install Gridsome CLI tool if you don't have
 
 `npm install --global @gridsome/cli`
 
+Yarn
+
+`yarn add @gridsome/cli --global`
+
 ### 2. Create a Gridsome project
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. Clone the project
+2. Install dependencies with `yarn install`
+3. start a local dev server with `gridsome develop`
+
